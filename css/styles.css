@@ -118,6 +118,12 @@ li span {
   color: red;
   text-align: center;
 }
+.chamada-pequena {
+  color: red;
+  text-align: center;
+  font-size: 25px;
+}
+
 
 .informacoes-jogo {
   border-radius: 8px;
